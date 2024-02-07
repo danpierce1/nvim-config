@@ -2,6 +2,9 @@
 A backup of a very basic but usuable neovim config.
 This repo is a message to future me if I ever need to re-setup
 
+<img width="1724" alt="image" src="https://github.com/danpierce1/nvim-config/assets/4040112/23fb1e79-33b4-478d-b900-7cc8fdfadf2c">
+
+
 ## Prerequisities
 - Terminal setup, im using [iTerm2](https://iterm2.com/downloads.html).
 - Custom Font, [Cousine Nerd Font for now](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.1.1/Cousine.zip) contains icons for neo-tree
